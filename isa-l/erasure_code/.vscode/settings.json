@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "repair_scheme_tbl.h": "c",
+        "xstring": "c",
+        "EQUATION.C": "cpp",
+        "repair_scheme_tbl_11_8.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
